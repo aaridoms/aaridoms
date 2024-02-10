@@ -6,7 +6,7 @@ I am currently looking for new challenges that allow me to develop both personal
 JavaScript(ES6), NodeJS, ExpressJS, MongoDB, React, Boostrap & Tailwind
 
 📌Tools.
-Git, GitHub, Jira, AWS, vercel
+Git, GitHub, Jira, AWS, Vercel
 
 ---
 
@@ -18,7 +18,7 @@ Actualmente estoy buscando nuevos retos que me permitan desarrollarme tanto pers
 JavaScript(ES6), NodeJS, ExpressJS, MongoDB, React, Boostrap & Tailwind
 
 📌Herramientas
-Git, GitHub, Jira, AWS
+Git, GitHub, Jira, AWS, Vercel
 
 [![React](https://img.shields.io/badge/React-1399c4?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
