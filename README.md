@@ -10,9 +10,9 @@ Git, GitHub, Jira, AWS, Vercel
 
 ---
 
-Hola 👋, Soy Ángel, desarrollador Full Stack (MERN) con un background en desarrollo web con PHP y Symfony. Hace poco decidí dar un cambio a mi vida laboral estudiando un bootcamp en Ironhack en el cual presenté el mejor proyecto de mi cohort 
+Hola 👋, Soy Ángel, desarrollador Full Stack (MERN) con un background en desarrollo web con PHP y Symfony. Cuando llegó la pandemia mi vida profesional tomó un rumbo totalmente diferente estudiando un bootcamp en Ironhack en el que me especialicé en el MERN stack. 
 
-Actualmente estoy buscando nuevos retos que me permitan desarrollarme tanto personal como laboralmente. También estoy estudiando NextJS y TypeScript
+Actualmente estoy estudiando un ciclo superior de desarrollo web y buscando nuevos retos.
 
 🚀Tecnologías
 JavaScript(ES6), NodeJS, ExpressJS, MongoDB, React, Boostrap & Tailwind
