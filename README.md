@@ -1,6 +1,6 @@
-Hi 👋, I'm Angel, Full Stack developer (MERN) with a background in web development with PHP and Symfony. I recently decided to change my work life by studying a bootcamp at Ironhack in which I presented the best project of my cohort. 
+Hi 👋, I'm Angel, Full Stack (MERN) developer with a background in web development with PHP and Symfony. When the pandemic arrived my professional life took a totally different direction studying a bootcamp at Ironhack in which I specialized in the MERN stack. 
 
-I am currently looking for new challenges that allow me to develop both personally and professionally. I am also studying NextJS and TypeScript.
+Currently I'm studying a higher cycle of web development and looking for new challenges.
 
 🚀Technologies.
 JavaScript(ES6), NodeJS, ExpressJS, MongoDB, React, Boostrap & Tailwind
